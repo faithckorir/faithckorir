@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently on JPMorgan Chase virtual python internship
+- 🌱 I’m currently on JPMorgan Chase virtual python program
 - 🔭 I’m currently working on  Biometric Applications and other awesome Mobile apps at Ngenx Solutions Ltd
 - 🌱 I’m currently on CS50x
 - 👯 I’m looking to collaborate on  any financial systems.
