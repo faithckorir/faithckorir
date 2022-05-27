@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on  Awesome applications at Ecletics International
-- 🌱 I’m currently on JPMorgan Chase virtual python program
 - 🌱 I’m currently on CS50x
 - 👯 I’m looking to collaborate on  any financial or data analysis systems.
 - 💬 Ask me about java,python,kotlin,laravel.
